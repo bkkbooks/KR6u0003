@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0003_000.yaml, hash: 'sha256:d0d729a9a77017831fe3effc28f1de6e2245e3618324da5e78209c3022d8d184'}
-  - {seq: 1, filename: KR6u0003_001.yaml, hash: 'sha256:11c6f088c556a139d0d6460f78d486ec41ef91312a9f9f235a5957775e153912'}
+  - {seq: 1, filename: KR6u0003_001.yaml, hash: 'sha256:efad996c1843292fb1cdb8bf44b67f21f4d370b738e1c67a68f7c5f9976a7d05'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0003_001.markers.yaml, hash: 'sha256:b2d11f099841d1f2a3d13d1ce02194228da044985dbb24336d57d30fa69a322c'}
+  - {seq: 0, role: markers, filename: assets/KR6u0003_000.markers.yaml, hash: 'sha256:2cef173a2aad72c69b8df3cba60d58dd0b37bff0df626ac513847c75a96ef6af'}
+  - {seq: 1, role: markers, filename: assets/KR6u0003_001.markers.yaml, hash: 'sha256:b52dfa46ac0178b369638a56e54493901372c906e8a5f1600c08882122961f37'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 慈仁問八十種好經
   type: juan
   level: 1
-hash: sha256:63e0fbed37785b0868752f6b96053c01f7611b3e5516aa814bb331f35ef7781d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:62fafbcbd0db06d38566a39f4170e87c451cfb56e77bdb0fde378635fd25e701
 editions:
 - short: T
