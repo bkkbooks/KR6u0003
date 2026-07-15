@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0003/v1
 canonical_location: https://kanripo.org/bkk/KR6u0003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈仁問八十種好經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0003_000.yaml, hash: 'sha256:d0d729a9a77017831fe3effc28f1de6e2245e3618324da5e78209c3022d8d184'}
-  - {seq: 1, filename: KR6u0003_001.yaml, hash: 'sha256:efad996c1843292fb1cdb8bf44b67f21f4d370b738e1c67a68f7c5f9976a7d05'}
+  - {seq: 1, filename: KR6u0003_001.yaml, hash: 'sha256:d19a5ad8f82b50b301988441eba8c88ac0b059291034b433263a0f6b7cfc24a2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0003_000.markers.yaml, hash: 'sha256:2cef173a2aad72c69b8df3cba60d58dd0b37bff0df626ac513847c75a96ef6af'}
-  - {seq: 1, role: markers, filename: assets/KR6u0003_001.markers.yaml, hash: 'sha256:b52dfa46ac0178b369638a56e54493901372c906e8a5f1600c08882122961f37'}
+  - {seq: 1, role: markers, filename: assets/KR6u0003_001.markers.yaml, hash: 'sha256:7a654d8ce1e20f3c0c1c750ae7470dcbba43e80bedca57018dc803c52b6e6dce'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 慈仁問八十種好經
   type: juan
   level: 1
-hash: sha256:62fafbcbd0db06d38566a39f4170e87c451cfb56e77bdb0fde378635fd25e701
+hash: sha256:e0cf321ca926a7161134acdaee1423461d7263e642775a56b473dc474e160ec9
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
